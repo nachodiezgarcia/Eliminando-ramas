@@ -1,3 +1,1 @@
-# Eliminando-ramasç
-
-Caso cerrado a
+# Eliminando-ramas
